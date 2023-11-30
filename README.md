@@ -10,5 +10,3 @@ Once 'Suricata' is installed, let's explore its commands by accessing it through
 Following this, we'll install another application, 'TCP dump,' quickly using 'sudo apt install tcpdump.' Once installed, we'll verify the list of installed applications with 'apt list --installed,' where 'TCP dump' will stand out.
 
 To wrap up, we'll reinstall 'Suricata' with 'sudo apt install Suricata.' Confirm with 'Yes' as before. After the installation, we'll double-check the list of installed applications to confirm 'Suricata's' presence.
-
-This comprehensive guide will be available on my GitHub for future reference.
